@@ -1,7 +1,7 @@
 # ML Challenge 2026: Business Entity Resolution Solution
 
-**Team Name:** DecisionDream
-**Team Members:** Pallavi VR, Sughosha S Vasista, Rajan L
+**Team Name:** DecisionDream 
+**Team Members:** Pallavi VR , Sughosha S Vasista , Rajan L  
 **Submission Date:** September 26, 2026
 
 ---
@@ -129,7 +129,7 @@ The project requirements include pandas, NumPy, LightGBM, RapidFuzz, scikit-lear
 ### C. Hardware
 
 - **Operating system:** Windows
-- **RAM:** 16 GB
+- **RAM:** 16GB 
 - **GPU:** No GPU usage was reported
 
 ---
